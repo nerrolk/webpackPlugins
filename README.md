@@ -1,13 +1,14 @@
 <!--
  * @Author: your name
  * @Date: 2020-02-05 12:58:36
- * @LastEditTime: 2020-02-07 16:57:31
- * @LastEditors: your name
+ * @LastEditTime : 2020-02-07 17:09:40
+ * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /webpackPlugins/README.md
  -->
 # webpackPlugins
-Plugins for webpack items
+Plugins for webpack items && 
 Plugins in the dev-tools folder
 
-# checkEs6Plugin
+### checkEs6Plugin
+Plugin for checking Es6 syntax which in assets.Currently support keywords checking,such as 'const','let' and 'import'. Also detection for arrow function.
