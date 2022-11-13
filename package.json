@@ -19,7 +19,7 @@
   "homepage": "https://github.com/nerrol1995/webpackPlugins#readme",
   "dependencies": {
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.10.3"
   }
 }
